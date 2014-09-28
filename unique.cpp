@@ -1,4 +1,4 @@
-//除去数组中的重复元素
+//除去已排序数组中的重复元素
 #include <iostream>
 using namespace std;
 int UniqueArray(int * array,int len){
